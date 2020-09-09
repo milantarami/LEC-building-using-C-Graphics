@@ -2,7 +2,7 @@
 
 This tiny project is built using C Graphics which has still building object with tree aside and cool animated welcome intro.
 
-## Screenshot
+## GIF
 
 ![alt text](https://github.com/milantarami/LEC-building-using-C-Graphics/blob/master/Screenshot.gif)
 
